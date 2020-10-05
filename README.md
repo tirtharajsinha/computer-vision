@@ -1,2 +1,2 @@
 # computer-vision
-this repository is storehouse for all of my computer vision works.
+this repository is storehouse for my computer vision works.
