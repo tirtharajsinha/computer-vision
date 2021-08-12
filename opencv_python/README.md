@@ -18,4 +18,7 @@ stock_path = os.path.dirname(os.getcwd()) + "\\"
 
 in the begining of script
 and add stock_path before existing path.
-example:- `img = cv2.imread(stock_path + "stock/card.jpg")`
+example:- 
+```
+img = cv2.imread(stock_path + "stock/card.jpg")
+```
