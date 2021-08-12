@@ -14,5 +14,7 @@ notice :: you may get file not found error then add
 ```
 import os
 stock_path = os.path.dirname(os.getcwd()) + "\\" 
-``` in the begining of script
+```
+
+in the begining of script
 and add stock_path before existing path.
